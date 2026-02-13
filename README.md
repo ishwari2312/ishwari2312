@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ishwari 👋
 
-<!--
-**ishwari2312/ishwari2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | AI & Data Analytics
 
-Here are some ideas to get you started:
+I am a Computer Science student passionate about building real-world applications using Machine Learning and Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Machine Learning & NLP
+- HTML, CSS, JavaScript
+- Data Analytics (Tableau, Excel)
+
+## Projects
+🔹 PetCare Management System  
+Tracks pet health records and vaccination reminders
+
+🔹 NLP Offensive Content Filter  
+Detects abusive comments before publishing
+
+## Currently Learning
+- Data Structures
+- Backend Development
+- Problem Solving
+
+## Goal
+To become a software engineer who builds meaningful technology.
