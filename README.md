@@ -24,3 +24,44 @@
 🚀 Building real-world applications
 
 🎯 Goal: Become an AI Engineer
+---
+
+# 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+---
