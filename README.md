@@ -6,7 +6,7 @@
 
 💡 Building real-world applications with AI and Web Technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/ishwarikumbhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwarikumbhar?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ishwariii_k)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ishwarikumbhar01@gmail.com)
 
@@ -131,4 +131,36 @@ A machine learning project that identifies harmful or toxic comments.
 
 </div>
 
----
+--# 📈 GitHub Activity Graph
+
+[![Ishwari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishwari2312&theme=tokyo-night&hide_border=true)](https://github.com/ishwari2312)
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ishwarikumbhar?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/ishwari2312">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:ishwarikumbhar01@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://instagram.com/ishwariii_k">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+💙 *Code • Learn • Build • Repeat*
+
+<img src="https://komarev.com/ghpvc/?username=ishwari2312&label=Profile%20Views&color=7F3FBF&style=flat" />
+
+</div>
