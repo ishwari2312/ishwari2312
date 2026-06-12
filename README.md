@@ -7,7 +7,7 @@
 💡 Building real-world applications with AI and Web Technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwarikumbhar?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ishwariii_k)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ishwarikumbhar01@gmail.com)
 
 </div>
@@ -150,7 +150,7 @@ A machine learning project that identifies harmful or toxic comments.
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://instagram.com/ishwariii_k">
+<a href="https://instagram.com/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
