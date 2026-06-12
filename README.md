@@ -123,4 +123,12 @@ A machine learning project that identifies harmful or toxic comments.
 
 </div>
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ishwari2312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+</div>
+
 ---
