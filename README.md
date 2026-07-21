@@ -67,25 +67,8 @@
 ---
 
 
-# 📊 GitHub Stats
 
-<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ishwari2312&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari2312&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwari2312&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ishwari2312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
 
 
 
